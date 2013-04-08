@@ -1,0 +1,12 @@
+grammar JavaScriptObjectNotation
+  # Your solution goes here
+
+  # Just scribbling on the blank page
+  rule nothing
+    "" {
+      def to_hash
+        :nowt
+      end
+    }
+  end
+end

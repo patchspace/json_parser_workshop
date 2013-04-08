@@ -1,0 +1,1769 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fl",
+				"flattened"
+			],
+			[
+				"con",
+				"conversion_method_for_parse_as"
+			],
+			[
+				"tree",
+				"treetop_node"
+			],
+			[
+				"ast",
+				"ast_elements"
+			],
+			[
+				"treet",
+				"treetop_node"
+			],
+			[
+				"list",
+				"list_with_elements"
+			],
+			[
+				"act",
+				"actual_parsed"
+			],
+			[
+				"expect",
+				"expected_tree"
+			],
+			[
+				"pars",
+				"parser"
+			],
+			[
+				"ele",
+				"elements"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"parame",
+				"parameters"
+			],
+			[
+				"def",
+				"def	def … end"
+			],
+			[
+				"sybo",
+				"symbol_table"
+			],
+			[
+				"sy",
+				"symbol"
+			],
+			[
+				"symb",
+				"symbol_table"
+			],
+			[
+				"symbol",
+				"symbol_table_logger"
+			],
+			[
+				"sc",
+				"scope_symbol"
+			],
+			[
+				"symbo",
+				"symbol"
+			],
+			[
+				"A",
+				"ArgumentError"
+			],
+			[
+				"sym",
+				"symbol"
+			],
+			[
+				"scop",
+				"scope_symbol"
+			],
+			[
+				"res",
+				"resolve"
+			],
+			[
+				"sco",
+				"scope_symbol"
+			],
+			[
+				"par",
+				"parent_scope"
+			],
+			[
+				"syb",
+				"symbol_table"
+			],
+			[
+				"new",
+				"new_foo"
+			],
+			[
+				"C",
+				"Cymbol2"
+			],
+			[
+				"arg",
+				"argument"
+			],
+			[
+				"do",
+				"dob	Insert do |variable| … end"
+			],
+			[
+				"i",
+				"identifier"
+			],
+			[
+				"parse",
+				"parse"
+			],
+			[
+				"int",
+				"integer_literal"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"ex",
+				"example"
+			],
+			[
+				"sp",
+				"symbol_table_for_parser"
+			],
+			[
+				"st",
+				"symbol_table"
+			],
+			[
+				"S",
+				"SymbolTable"
+			],
+			[
+				"Cymb",
+				"Cymbol"
+			],
+			[
+				"Cymbol",
+				"CymbolSymbol"
+			],
+			[
+				"spec",
+				"specify"
+			],
+			[
+				"if",
+				"if_speculating"
+			],
+			[
+				"match",
+				"match_parallel_assignment"
+			],
+			[
+				"paral",
+				"parallel_assignment"
+			],
+			[
+				"list_pars",
+				"list_parser_with_parallel_assignment"
+			],
+			[
+				"Re",
+				"recognition_error"
+			],
+			[
+				"it",
+				"it	it"
+			],
+			[
+				"mat",
+				"matched_parallel_assigment"
+			],
+			[
+				"dup",
+				"dup"
+			],
+			[
+				"pre",
+				"premark_y"
+			],
+			[
+				"Forw",
+				"forwardable"
+			],
+			[
+				"Array",
+				"ArrayProxy"
+			],
+			[
+				"pr",
+				"premark_b"
+			],
+			[
+				"des",
+				"des	describe (String)"
+			],
+			[
+				"ma",
+				"matched_list"
+			],
+			[
+				"ass",
+				"assignment"
+			],
+			[
+				"tok",
+				"token_or_stop_iteration"
+			],
+			[
+				"peek",
+				"peeked_token"
+			],
+			[
+				"cons",
+				"consumed_token"
+			],
+			[
+				"lexer",
+				"lexer_empty"
+			],
+			[
+				"loo",
+				"lookahead"
+			],
+			[
+				"p0",
+				"p02_ll1_recursive_descent_lexer"
+			],
+			[
+				"un",
+				"underlying_lexer"
+			],
+			[
+				"desc",
+				"desc	describe (Controller)"
+			],
+			[
+				"cla",
+				"cla	class .. end"
+			],
+			[
+				"de",
+				"descriptions"
+			],
+			[
+				"descrit",
+				"descriptions_to_tokens"
+			],
+			[
+				"toke",
+				"token_description"
+			],
+			[
+				"to",
+				"token_type"
+			],
+			[
+				"element",
+				"element"
+			],
+			[
+				"wh",
+				"while	while ... end"
+			],
+			[
+				"char",
+				"char"
+			],
+			[
+				"finish",
+				"finish_normal"
+			],
+			[
+				"r",
+				"limit_ratchet"
+			],
+			[
+				"rec",
+				"receipt_items"
+			],
+			[
+				"print",
+				"print_item"
+			],
+			[
+				"too",
+				"too_late_timer"
+			],
+			[
+				"sell",
+				"sell_action"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"co",
+				"config"
+			],
+			[
+				"log",
+				"log_output"
+			],
+			[
+				"ope",
+				"opening_price"
+			],
+			[
+				"initial",
+				"initial_limit"
+			],
+			[
+				"belay",
+				"belay"
+			],
+			[
+				"all",
+				"allow_sell_to_complete"
+			],
+			[
+				"shared",
+				"shared_examples_for"
+			],
+			[
+				"cancel",
+				"cancelled"
+			],
+			[
+				"mar",
+				"market"
+			],
+			[
+				"mark",
+				"market_agent"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"pric",
+				"price_time"
+			],
+			[
+				"tim",
+				"time_is_sufficient_for_limit_raise"
+			],
+			[
+				"when",
+				"when_event_happens"
+			],
+			[
+				"price",
+				"price_time"
+			],
+			[
+				"up",
+				"up"
+			],
+			[
+				"prie",
+				"price_changed"
+			],
+			[
+				"trail",
+				"TrailingStopLoss"
+			],
+			[
+				"rev",
+				"reverse_merge"
+			],
+			[
+				"aggre",
+				"aggregate_uuid"
+			],
+			[
+				"foo",
+				"foo_updated"
+			],
+			[
+				"aggr",
+				"aggregate_root"
+			],
+			[
+				"agg",
+				"aggregate_root"
+			],
+			[
+				"event",
+				"event"
+			],
+			[
+				"even",
+				"event_attributes"
+			],
+			[
+				"test",
+				"test_aggregate_created"
+			],
+			[
+				"coll",
+				"collected_keys"
+			],
+			[
+				"ord",
+				"order_fulfilment_policy"
+			],
+			[
+				"order",
+				"order_fulfilment_policies"
+			],
+			[
+				"fish",
+				"fishing_orders"
+			],
+			[
+				"back",
+				"backwards"
+			],
+			[
+				"od",
+				"order_fulfilment"
+			],
+			[
+				"Orde",
+				"order_fulfilment_policies"
+			],
+			[
+				"Fish",
+				"FishingOrderPolicies"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"Cons",
+				"ConstructionError"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"ful",
+				"order_fulfilment"
+			],
+			[
+				"mod",
+				"mod	module .. end"
+			],
+			[
+				"map",
+				"map_elements"
+			],
+			[
+				"Enum",
+				"Enumerators"
+			],
+			[
+				"enu",
+				"enumerator"
+			],
+			[
+				"En",
+				"Enumerators"
+			],
+			[
+				"enum",
+				"enumerators"
+			],
+			[
+				"start",
+				"starting_year"
+			],
+			[
+				"busin",
+				"businesses"
+			],
+			[
+				"fis",
+				"fishing_started"
+			],
+			[
+				"Event",
+				"Events"
+			],
+			[
+				"fishing",
+				"fishing"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "spec/json_parser_spec.rb",
+			"settings":
+			{
+				"buffer_size": 266,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/javascript_object_notation.treetop",
+			"settings":
+			{
+				"buffer_size": 121,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/json_parser.rb",
+			"settings":
+			{
+				"buffer_size": 96,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 4,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 227.0,
+		"selected_items":
+		[
+			[
+				"prev",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"mark",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: preview in Sublime Text"
+			],
+			[
+				"ssdi",
+				"Set Syntax: Diff"
+			],
+			[
+				"Set Syntax: d",
+				"Set Syntax: Diff"
+			],
+			[
+				"Set Syntax: diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 680.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ashmoran/Documents/PatchSpace/Development/json_parser_workshop/.gitignore",
+		"/Users/ashmoran/Documents/PatchSpace/Development/json_parser_workshop/Guardfile",
+		"/Users/ashmoran/Documents/PatchSpace/Development/json_parser_workshop/Gemfile",
+		"/Users/ashmoran/Documents/PatchSpace/Development/json_parser_workshop/spec/spec_helper.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/parsing_for_fun_and_profit/Gemfile",
+		"/Users/ashmoran/Documents/PatchSpace/Development/parsing_for_fun_and_profit/Gemfile.lock",
+		"/Users/ashmoran/Documents/PatchSpace/Development/parsing_for_fun_and_profit/lib/parsing_for_fun_and_profit/arithmetic.treetop",
+		"/Users/ashmoran/Documents/PatchSpace/Development/parsing_for_fun_and_profit/spec/parsing_for_fun_and_profit/arithmetic/arithmetic_parser_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/parsing_for_fun_and_profit/lib/parsing_for_fun_and_profit/arithmetic/arithmetic.treetop",
+		"/Users/ashmoran/Documents/PatchSpace/Development/parsing_for_fun_and_profit/lib/parsing_for_fun_and_profit/arithmetic/arithmetic.complete.treetop",
+		"/Users/ashmoran/Documents/PatchSpace/Development/parsing_for_fun_and_profit/spec/parsing_for_fun_and_profit/simple_ruby/simple_ruby_parser_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/parsing_for_fun_and_profit/lib/parsing_for_fun_and_profit/simple_ruby.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/parsing_for_fun_and_profit/lib/parsing_for_fun_and_profit.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/parsing_for_fun_and_profit/bin/rb2html",
+		"/Users/ashmoran/Documents/PatchSpace/Development/parsing_for_fun_and_profit/lib/parsing_for_fun_and_profit/simple_ruby/simple_ruby_parser.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/parsing_for_fun_and_profit/lib/parsing_for_fun_and_profit/simple_ruby/simple_ruby.treetop",
+		"/Users/ashmoran/Documents/PatchSpace/Development/parsing_for_fun_and_profit/lib/parsing_for_fun_and_profit/simple_ruby/html_builder.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/parsing_for_fun_and_profit/README.markdown",
+		"/Users/ashmoran/Documents/PatchSpace/Development/parsing_for_fun_and_profit/demo/dog.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/parsing_for_fun_and_profit/lib/parsing_for_fun_and_profit/list/list_parser.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/parsing_for_fun_and_profit/lib/parsing_for_fun_and_profit/list/list.treetop",
+		"/Users/ashmoran/Documents/PatchSpace/Development/parsing_for_fun_and_profit/spec/parsing_for_fun_and_profit/list/list_parser_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/parsing_for_fun_and_profit/spec/parsing_for_fun_and_profit/arithmetic_parser_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/2_analyzing_languages/ch06_tracking_symbols/p17_nested_scopes/cymbol2_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/2_analyzing_languages/ch06_tracking_symbols/p17_nested_scopes/symbol_table.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/2_analyzing_languages/ch06_tracking_symbols/p17_nested_scopes/symbol_table_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/2_analyzing_languages/ch06_tracking_symbols/p17_nested_scopes/method_symbol.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/2_analyzing_languages/ch06_tracking_symbols/p17_nested_scopes/method_symbol_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/2_analyzing_languages/ch06_tracking_symbols/p17_nested_scopes/scope_contract.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/2_analyzing_languages/ch06_tracking_symbols/p16_monolithic_scope/symbol_table_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/2_analyzing_languages/ch06_tracking_symbols/p16_monolithic_scope/symbol_table.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/2_analyzing_languages/ch06_tracking_symbols/p17_nested_scopes/cymbol2.rb",
+		"/Users/ashmoran/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/2_analyzing_languages/ch06_tracking_symbols/p17_nested_scopes/cymbol2_parser.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/2_analyzing_languages/ch06_tracking_symbols/p17_nested_scopes/cymbol2_parser_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/2_analyzing_languages/ch06_tracking_symbols/p17_nested_scopes/cymbol_nested.treetop",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/2_analyzing_languages/ch06_tracking_symbols/p16_monolithic_scope/cymbol_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/2_analyzing_languages/ch06_tracking_symbols/p16_monolithic_scope/cymbol.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/2_analyzing_languages/ch06_tracking_symbols/p16_monolithic_scope/symbol_table_logger.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/2_analyzing_languages/ch06_tracking_symbols/p16_monolithic_scope/symbol_table_logger_spec.rb",
+		"/Users/ashmoran/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/ashmoran/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/ashmoran/Library/Application Support/Sublime Text 2/Packages/Terminal/Base File.sublime-settings",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/2_analyzing_languages/ch06_tracking_symbols/p17_nested_scopes/cymbol_nested_node_classes.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/2_analyzing_languages/ch06_tracking_symbols/p17_nested_scopes/cymbol_nested_node_classes.rb",
+		"/Users/ashmoran/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/2_analyzing_languages/ch06_tracking_symbols/p16_monolithic_scope/cymbol_monolithic.treetop",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/2_analyzing_languages/ch06_tracking_symbols/p16_monolithic_scope/cymbol_monolithic_node_classes.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/2_analyzing_languages/ch06_tracking_symbols/p16_monolithic_scope/language_symbol_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/2_analyzing_languages/ch06_tracking_symbols/p16_monolithic_scope/variable_symbol_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/2_analyzing_languages/ch06_tracking_symbols/p16_monolithic_scope/language_symbol.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/2_analyzing_languages/ch06_tracking_symbols/p16_monolithic_scope/variable_symbol.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/Guardfile",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/2_analyzing_languages/ch06_tracking_symbols/p17_nested_scopes/cymbol2_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/2_analyzing_languages/ch06_tracking_symbols/p17_nested_scopes/cymbol_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/2_analyzing_languages/ch06_tracking_symbols/p16_monolithic_scope/variable_type.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/2_analyzing_languages/ch06_tracking_symbols/p16_monolithic_scope/cymbol_symbol.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/2_analyzing_languages/ch06_tracking_symbols/p16_monolithic_scope/cymbol_symbol_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/2_analyzing_languages/ch06_tracking_symbols/p16_monolithic_scope/cymbol_symbol.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/2_analyzing_languages/ch06_tracking_symbols/p16_monolithic_scope/cymbol_table.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/2_analyzing_languages/ch06_tracking_symbols/p16_monolithic_scope/cymbol_table_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/ch02_basic_parsing/p04_llk_recursive_descent_parser/lexer_lookahead_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/1_getting_started/ch02_basic_parsing/p04_llk_recursive_descent_parser/lexer_lookahead.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/ch02_basic_parsing/p02_ll1_recursive_descent_lexer/enumerator_contract.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/1_getting_started/ch02_basic_parsing/p02_ll1_recursive_descent_lexer/token.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/ch02_basic_parsing/p02_ll1_recursive_descent_lexer/token_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/ch02_basic_parsing/p03_ll1_recursive_descent_parser/list_parser_contract.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/ch02_basic_parsing/p03_ll1_recursive_descent_parser/list_parser_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/1_getting_started/ch02_basic_parsing/p03_ll1_recursive_descent_parser/list_parser.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/ch02_basic_parsing/p04_llk_recursive_descent_parser/list_parser_with_assignment_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/ch02_basic_parsing/p04_llk_recursive_descent_parser/list_parser_assignment_contract.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/1_getting_started/ch02_basic_parsing/p04_llk_recursive_descent_parser/list_parser_with_assignment.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/ch03_enhanced_parsing/p05_backtracking_parser/list_parser_with_parallel_assignment_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/ch03_enhanced_parsing/p05_backtracking_parser/list_parser_with_parallel_assignment_contract.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/ch03_enhanced_parsing/p06_memoizing_parser/memoizing_list_parser_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/1_getting_started/ch03_enhanced_parsing/p06_memoizing_parser/memoizing_list_parser.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/1_getting_started/ch03_enhanced_parsing/p05_backtracking_parser/list_parser_with_parallel_assignment.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/1_getting_started/recognition_error.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/1_getting_started/ch03_enhanced_parsing/p05_backtracking_parser/lexer_replayable_lookahead.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/1_getting_started/ch03_enhanced_parsing/p05_backtracking_parser/replayable_buffer.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/ch03_enhanced_parsing/p05_backtracking_parser/replayable_buffer_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/ch03_enhanced_parsing/p05_backtracking_parser/lexer_replayable_lookahead_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/ch02_basic_parsing/p02_ll1_recursive_descent_lexer/list_lexer_contract.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/1_getting_started/errors.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/Gemfile",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/spec_helper.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/2_analyzing_languages/ch06_tracking_symbols/p16_monolithic_scope/cymbol.treetop",
+		"/Users/ashmoran/Library/Application Support/Sublime Text 2/Packages/User/TreeTop.sublime-settings",
+		"/Users/ashmoran/Library/Application Support/Sublime Text 2/Packages/User/Ruby.sublime-settings",
+		"/Users/ashmoran/.dotfiles/shell_aliases",
+		"/Users/ashmoran/.zshrc",
+		"/Users/ashmoran/Documents/Development/antlr-3.4/lib/antlr-3.4-complete.jar",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/ch03_enhanced_parsing/p06_memoizing_parser/memoising_list_parser_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/ch03_enhanced_parsing/p05_backtracing_parser/list_parser_with_parallel_assignment_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/1_getting_started/ch03_enhanced_parsing/p05_backtracing_parser/list_parser_with_parallel_assignment.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/1_getting_started/ch03_enhanced_parsing/p05_backtracing_parser/lexer_replayable_lookahead.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/ch03_enhanced_parsing/p05_backtracing_parser/list_parser_with_parallel_assignment.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/ch02_basic_parsing/p02_ll1_recursive_descent_lexer/list_lexer_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/1_getting_started/ch02_basic_parsing/p02_ll1_recursive_descent_lexer/list_lexer.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/ch02_basic_parsing/p02_ll1_recursive_descent_lexer/enumerator_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/.git/COMMIT_EDITMSG",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/lib/1_getting_started/ch02_basic_parsing/p02_ll1_recursive_descent_parser/list_parser.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/ch02_basic_parsing/p02_ll1_recursive_descent_parser/list_parser_contract.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/ch02_basic_parsing/p02_ll1_recursive_descent_parser/list_parser_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/ch02_basic_parsing/p02_ll1_recursive_descent_lexer/list_parser_contract.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/ch02_basic_parsing/p02_ll1_recursive_descent_lexer/list_parser_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/spec/1_getting_started/02_basic_parsing/p02_ll1_recursive_descent_lexer/ll1_recursive_descent_lexer_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/language_implementation_patterns/.gitignore",
+		"/Users/ashmoran/Documents/PatchSpace/Development/xpman/trailing_stop_loss_kata/lib/trailing_stop_loss.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/xpman/trailing_stop_loss_kata/lib/stop_loss.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/xpman/trailing_stop_loss_kata/lib/market_agent.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/xpman/trailing_stop_loss_kata/lib/limit_ratchet.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/xpman/trailing_stop_loss_kata/lib/app.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/xpman/trailing_stop_loss_kata/spec/spec_helper.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/xpman/trailing_stop_loss_kata/spec/limit_ratchet_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/xpman/trailing_stop_loss_kata/spec/support/test_order.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/xpman/trailing_stop_loss_kata/spec/app_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/xpman/trailing_stop_loss_kata/spec/market_agent_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/xpman/trailing_stop_loss_kata/spec/stop_loss_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/xpman/trailing_stop_loss_kata/spec/support/test_market.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/xpman/trailing_stop_loss_kata/spec/support/test_market_agent.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/xpman/trailing_stop_loss_kata/spec/orders/trailing_stop_loss_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/xpman/trailing_stop_loss_kata/lib/orders/trailing_stop_loss.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/xpman/trailing_stop_loss_kata/lib/spec/test_order.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/xpman/trailing_stop_loss_kata/spec/orders/test_order_spec.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/xpman/trailing_stop_loss_kata/spec/contracts/market_agent_contract.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/xpman/trailing_stop_loss_kata/lib/interfaces/price_listener.rb",
+		"/Users/ashmoran/Documents/PatchSpace/Development/xpman/trailing_stop_loss_kata/lib/interfaces/order.rb"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"Fishermen",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"JavaScriptObjectNotationParser",
+			"to_array",
+			"to_a",
+			"flatten_elements",
+			"to_ast",
+			"parse_as",
+			"to_ast",
+			"ast_elements",
+			"symbol",
+			"focus",
+			"elements",
+			"ast_elements",
+			"flatten_elements",
+			"ast_elements",
+			".to_ast",
+			"ParsingForFunAndProfit::",
+			"parsing_for_fun_and_profit",
+			"simple_ruby_parser",
+			"/arithmetic",
+			"pending",
+			"output_io",
+			"defdefscope",
+			"defscope",
+			"CymbolExpression",
+			"CymbolBlock",
+			"type",
+			"VariableSymbol",
+			"LanguageSymbol",
+			"stuff",
+			"focus:",
+			"description",
+			"\\.define",
+			"if.*location",
+			"focus:",
+			"int",
+			"LanguageSymbol",
+			"foo",
+			"LanguageSymbol",
+			"VariableSymbol",
+			"symbol_table",
+			"CymbolSymbol",
+			"input",
+			"focus:",
+			"recognition_error",
+			"ArgumentError",
+			"focus",
+			"focus:",
+			"output",
+			"@buffer.",
+			"ReplayableBuffer",
+			"focus:",
+			"speculate_stat_pa",
+			"speculate_stat_parallel_assigment",
+			"ListParserWithParallelAssignment",
+			"BacktrackingParser",
+			"EnhancedParsing",
+			"GettingStarted",
+			"focus:",
+			"consumed_token",
+			"focus:",
+			"peek",
+			"peex",
+			"enumerator",
+			"lexer",
+			"Stop",
+			"stopite",
+			"focus:",
+			"focus:\n",
+			"focus:",
+			"tokens",
+			"each",
+			"buffer_next_token",
+			"@tokens",
+			"LL1",
+			"p02_ll1_recursive_descent_parser",
+			"type(",
+			"type(@lookahead)",
+			"keys.first",
+			":tokens",
+			"type",
+			"app",
+			"App",
+			"TestOrder",
+			"test_order",
+			"TestMarket",
+			"test_market",
+			"TrailingStopLoss",
+			"DelayedMarketAgent",
+			"DelayedLimitRatchet",
+			"last_known_price",
+			"- 1",
+			"'market_agent'",
+			"market_agent'",
+			"include ",
+			"require 'support/",
+			"market.actions",
+			"require 'market'",
+			"Market.new",
+			"allow_sell_to_complete",
+			"TrailingStopLoss2",
+			"cancel",
+			"cancelled",
+			"an event that doesn't trigger a sell",
+			"Constructio",
+			"event[",
+			"uuid",
+			"mark_changes_as_committed",
+			"apply(",
+			"apply",
+			"appl",
+			"year_advanced",
+			"advanced",
+			"EnumerableWrapper",
+			"Enumerators",
+			"load_from_history",
+			"open_fishing_ground",
+			"fishing_ground_opened",
+			"open_fishing_ground",
+			"Fishermen can see Fishing Ground",
+			"trying to",
+			"let\\(:events\\)",
+			"let(:events)",
+			"start_fishing",
+			"close_fishing_ground",
+			"has started",
+			"has started in",
+			"fishing starts",
+			"InvalidOperationError"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"errors",
+			"LLk",
+			"p03_ll1_recursive_descent_parser",
+			"@lookahead.type",
+			"order",
+			"TrailingStopLoss",
+			"MockOrder",
+			"mock_order",
+			"MockMarket",
+			"mock_market",
+			"StopLoss",
+			"MarketAgent",
+			"LimitRatchet",
+			"require 'contracts/",
+			"agent.actions",
+			"require 'test_market'",
+			"TestMarket.new",
+			"allow_actions_to_complete",
+			"TrailingStopLoss",
+			"belay",
+			"belayed",
+			"a still-pending order",
+			"fire(",
+			"fishing_business_statistics",
+			"match_event_description",
+			"uuid",
+			"Fisherman",
+			"Fishermen",
+			"Harvest::Neptune",
+			"set_up_in_business_in",
+			"fisherman_registrar",
+			"FishingGround.create",
+			"uuid"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "spec/json_parser_spec.rb",
+					"settings":
+					{
+						"buffer_size": 266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								256,
+								256
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 1.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"ruby": "/Users/ashmoran/.rbenv/shims/ruby"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"RSpec": "ruby",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/RSpec/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/javascript_object_notation.treetop",
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 1.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"ruby": "/Users/ashmoran/.rbenv/shims/ruby"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"RSpec": "ruby",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/TreeTop/TreeTop.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/json_parser.rb",
+					"settings":
+					{
+						"buffer_size": 96,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								92
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 1.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"ruby": "/Users/ashmoran/.rbenv/shims/ruby"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"RSpec": "ruby",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 4,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								4
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 1.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"ruby": "/Users/ashmoran/.rbenv/shims/ruby"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"RSpec": "ruby",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"lib/parsing_for_fun_and_profit/list/list.treetop"
+			],
+			[
+				"sh",
+				"spec/spec_helper.rb"
+			],
+			[
+				"marke",
+				"lib/market_agent.rb"
+			],
+			[
+				"mas",
+				"spec/market_agent_spec.rb"
+			],
+			[
+				"tos",
+				"spec/orders/test_order_spec.rb"
+			],
+			[
+				"to",
+				"lib/spec/test_order.rb"
+			],
+			[
+				"lim",
+				"lib/limit_ratchets/immediate_limit_ratchet.rb"
+			],
+			[
+				"markd",
+				"README.markdown"
+			],
+			[
+				"tm",
+				"lib/test_market.rb"
+			],
+			[
+				"hu",
+				"lib/cqedomain/spec/have_uncommitted_events_matcher.rb"
+			],
+			[
+				"rfs",
+				"spec/harvest/event_handlers/read_models/registered_fishermen_spec.rb"
+			],
+			[
+				"fgbs",
+				"spec/harvest/event_handlers/read_models/fishing_ground_businesses_spec.rb"
+			],
+			[
+				"event",
+				"lib/cqedomain/domain/event_factory/event.rb"
+			],
+			[
+				"a",
+				"spec/cqedomain/domain/aggregate_root_spec.rb"
+			],
+			[
+				"ar",
+				"spec/cqedomain/domain/aggregate_root_spec.rb"
+			],
+			[
+				"esr",
+				"lib/cqedomain/domain/event_store_repository.rb"
+			],
+			[
+				"fg",
+				"lib/harvest/domain/fishing_ground.rb"
+			],
+			[
+				"fgat",
+				"spec/harvest/event_handlers/read_models/fishing_grounds_available_to_join_spec.rb"
+			],
+			[
+				"fgatjs",
+				"spec/harvest/event_handlers/read_models/fishing_grounds_available_to_join_spec.rb"
+			],
+			[
+				"fgs",
+				"spec/harvest/domain/fishing_ground_spec.rb"
+			],
+			[
+				"aggro",
+				"lib/cqedomain/domain/aggregate_root.rb"
+			],
+			[
+				"gg",
+				"spec/harvest/domain/fishing_ground_spec.rb"
+			],
+			[
+				"ne",
+				"spec/harvest/neptune_spec.rb"
+			],
+			[
+				"nu",
+				"spec/harvest/neptune_spec.rb"
+			],
+			[
+				"net",
+				"spec/harvest/neptune_spec.rb"
+			],
+			[
+				"huem",
+				"spec/cqedomain/spec/have_uncommitted_events_matcher_spec.rb"
+			],
+			[
+				"fga",
+				"spec/harvest/event_handlers/read_models/fishing_grounds_available_to_join_spec.rb"
+			],
+			[
+				"nep",
+				"spec/harvest/neptune_spec.rb"
+			],
+			[
+				"fgatj",
+				"lib/harvest/event_handlers/read_models/fishing_grounds_available_to_join.rb"
+			],
+			[
+				"fbs",
+				"features/step_definitions/fishing_business_steps.rb"
+			],
+			[
+				"imrd",
+				"lib/harvest/in_memory_read_model_database.rb"
+			],
+			[
+				"bcs",
+				"features/step_definitions/business_cycle_steps.rb"
+			],
+			[
+				"have",
+				"lib/cqedomain/spec/have_uncommitted_events_matcher.rb"
+			],
+			[
+				"fbn",
+				"lib/harvest/event_handlers/read_models/fishing_business_statistics.rb"
+			],
+			[
+				"fb",
+				"lib/harvest/event_handlers/read_models/fishing_ground_businesses.rb"
+			],
+			[
+				"curr",
+				"lib/harvest/domain/currency.rb"
+			],
+			[
+				"fishsta",
+				"features/descriptions/fishing_starts.feature"
+			],
+			[
+				"fgss",
+				"spec/harvest/event_handlers/read_models/fishing_ground_statistics_spec.rb"
+			],
+			[
+				"ars",
+				"spec/cqedomain/domain/aggregate_root_spec.rb"
+			],
+			[
+				"f",
+				"spec/harvest/domain/fisherman_spec.rb"
+			],
+			[
+				"fisher",
+				"lib/harvest/domain/fisherman.rb"
+			],
+			[
+				"fms",
+				"spec/harvest/domain/fisherman_spec.rb"
+			],
+			[
+				"imr",
+				"lib/harvest/in_memory_read_model_database.rb"
+			],
+			[
+				"fgsp",
+				"spec/harvest/domain/fishing_ground_spec.rb"
+			],
+			[
+				"ueer",
+				"spec/cqedomain/bus/unhandled_event_error_raiser_spec.rb"
+			],
+			[
+				"seb",
+				"spec/cqedomain/bus/simple_event_bus_spec.rb"
+			],
+			[
+				"sebs",
+				"spec/cqedomain/bus/simple_event_bus_spec.rb"
+			],
+			[
+				"ef",
+				"lib/cqedomain/domain/event_factory.rb"
+			],
+			[
+				"med",
+				"spec/cqedomain/spec/match_event_description_matcher_spec.rb"
+			],
+			[
+				"met",
+				"lib/cqedomain/spec/match_event_description_matcher.rb"
+			],
+			[
+				"es",
+				"spec/cqedomain/domain/event_factory/event_spec.rb"
+			],
+			[
+				"uem",
+				"spec/cqedomain/spec/have_uncommitted_events_matcher_spec.rb"
+			],
+			[
+				"et",
+				"lib/cqedomain/domain/event_factory/event_type.rb"
+			],
+			[
+				"ets",
+				"spec/cqedomain/domain/event_factory/event_type_spec.rb"
+			],
+			[
+				"ev",
+				"lib/cqedomain/domain/event_factory/event.rb"
+			],
+			[
+				"fw",
+				"lib/harvest/fishing_world.rb"
+			],
+			[
+				"fmr",
+				"lib/harvest/fisherman_registrar.rb"
+			],
+			[
+				"fws",
+				"spec/harvest/fishing_world_spec.rb"
+			],
+			[
+				"fm",
+				"lib/harvest/fisherman.rb"
+			],
+			[
+				"fgb",
+				"lib/harvest/fishing_ground_businesses.rb"
+			],
+			[
+				"fish",
+				"lib/harvest/fisherman.rb"
+			],
+			[
+				"fr",
+				"spec/harvest/fisherman_registrar_spec.rb"
+			],
+			[
+				"ns",
+				"spec/harvest/neptune_spec.rb"
+			],
+			[
+				"fs",
+				"spec/harvest/fisherman_spec.rb"
+			],
+			[
+				"fsp",
+				"spec/harvest/fisherman_spec.rb"
+			],
+			[
+				"fgr",
+				"lib/harvest/fishing_ground.rb"
+			],
+			[
+				"im",
+				"lib/harvest/in_memory_event_store.rb"
+			],
+			[
+				"imes",
+				"lib/harvest/in_memory_event_store.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 359.0,
+	"status_bar_visible": true
+}
