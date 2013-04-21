@@ -12,16 +12,14 @@ describe JavaScriptObjectNotationParser do
     :to_hash
   end
 
-  # Getting started
-
-  describe "getting started" do
+  describe "Getting started" do
     example do
       pending
       expect('').to parse_as(:nothing)
     end
   end
 
-  describe "an empty object" do
+  describe "An empty object" do
     example do
       pending
       expect('{}').to parse_as({ })
@@ -29,15 +27,11 @@ describe JavaScriptObjectNotationParser do
 
     example do
       pending
-      # It's not important when you do this one,
-      # it's just a sanity check
       expect('{   }').to parse_as({ })
     end
   end
 
-  # String values
-
-  describe "string values" do
+  describe "String values" do
     example do
       pending
       expect('{ "a" : "b" }').to parse_as({ "a" => "b" })
@@ -54,7 +48,7 @@ describe JavaScriptObjectNotationParser do
     end
   end
 
-  describe "integer values" do
+  describe "Integer values" do
     example do
       pending
       expect('{ "a" : 1 }').to parse_as({ "a" => 1 })
@@ -72,7 +66,7 @@ describe JavaScriptObjectNotationParser do
   end
 
   # Now it gets harder
-  describe "multiple member pairs" do
+  describe "Multiple member pairs" do
     example do
       pending
       expect(
@@ -83,7 +77,7 @@ describe JavaScriptObjectNotationParser do
     end
   end
 
-  describe "objects as values" do
+  describe "Objects as values" do
     example do
       pending
       expect(
@@ -95,7 +89,7 @@ describe JavaScriptObjectNotationParser do
   end
 
   # Serious extra credit!
-  describe "arrays" do
+  describe "Arrays" do
     example do
       pending
       expect('{ "a" : [] }').to parse_as({ "a" => [ ] })
