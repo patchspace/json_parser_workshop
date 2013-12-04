@@ -1,0 +1,29 @@
+{
+  "name": "workshop_js",
+  "version": "0.0.0",
+  "description": "JSON Parser Workshop",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6.3",
+    "chai": "~1.8.1",
+    "pegjs": "~0.7.0",
+    "underscore": "~1.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patchspace/json_parser_workshop"
+  },
+  "author": "Ash Moran",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/patchspace/json_parser_workshop/issues"
+  },
+  "homepage": "https://github.com/patchspace/json_parser_workshop"
+}
