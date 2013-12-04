@@ -1,3 +1,5 @@
 tmp/
-lib/prepared_solutions/
+workshop_ruby/lib/prepared_solutions/
+workshop_js/lib/prepared_solutions/
+workshop_js/node_modules/
 *.sublime-workspace
